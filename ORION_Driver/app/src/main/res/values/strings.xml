@@ -1,0 +1,12 @@
+<resources>
+    <string name="app_name">ORION_Driver</string>
+
+    <string name="navigation_drawer_open" translatable="false">Open navigation drawer</string>
+    <string name="navigation_drawer_close" translatable="false">Close navigation drawer</string>
+
+    <string name="appbar_scrolling_view_behavior" translatable="false">com.google.android.material.appbar.AppBarLayout$ScrollingViewBehavior</string>
+
+    <string name="forgotpassword"><u>Forgot Password?</u></string>
+    <string name="terms">Agree with <u>Terms &amp; Conditions</u></string>
+
+</resources>

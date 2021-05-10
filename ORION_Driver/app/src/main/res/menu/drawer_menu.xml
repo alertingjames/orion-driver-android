@@ -1,0 +1,28 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:app="http://schemas.android.com/apk/res-auto">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/orders"
+            android:icon="@drawable/ic_order_history"
+            android:title="Orders"/>
+        <item
+            android:id="@+id/notifications"
+            android:icon="@drawable/ic_notification"
+            android:title="Notifications"/>
+        <item
+            android:id="@+id/account"
+            android:icon="@drawable/account"
+            android:title="My Profile"/>
+        <item
+            android:id="@+id/settings"
+            android:icon="@drawable/ic_setting"
+            android:title="Settings" />
+        <item
+            android:id="@+id/help"
+            android:icon="@drawable/ic_help"
+            android:title="Help"/>
+    </group>
+
+</menu>
